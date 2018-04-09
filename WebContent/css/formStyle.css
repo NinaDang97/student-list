@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+
+label{
+	width: 120px; 
+	float: left;
+}
+input{
+	margin: 5px 0 0 0;	
+}
+#submit{
+	width: 100px;
+	background-color: #00fb00;
+	color: white;
+	font-weight: bold;
+}
